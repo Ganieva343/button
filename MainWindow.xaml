@@ -30,6 +30,89 @@
                     </ToolTip>
                 </RadioButton.ToolTip>
             </RadioButton>
+            <RadioButton GroupName="Sweats" Content="Elair" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton>
+            <RadioButton GroupName="Sweats" Content="Froyo" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton>
+            <RadioButton GroupName="Sweats" Content="Gingerbread" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton>
+            <RadioButton GroupName="Sweats" Content="Honeycomb" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton> 
+            <RadioButton GroupName="Sweats" Content="Ice cream sandwich" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton>  
+            <RadioButton GroupName="Sweats" Content="Jelly bean" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton>
+            <RadioButton GroupName="Sweats" Content="Kitkat" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton>
+            <RadioButton GroupName="Sweats" Content="Lollipop" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton>
+            <RadioButton GroupName="Sweats" Content="Marshmallow" Height="20">
+                <RadioButton.ToolTip>
+                    <ToolTip Width="200" Height="150">
+                        <StackPanel>
+                            <Image Source="Resources\1.png" />
+                        </StackPanel>
+                    </ToolTip>
+                </RadioButton.ToolTip>
+            </RadioButton>
+           
+                
 
         </StackPanel>
 
